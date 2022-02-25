@@ -1,0 +1,12 @@
+.description {
+  display: flex;
+  justify-content: center;
+}
+
+.description .two-columns__paragraph:first-child {
+  margin-bottom: 30px;
+}
+
+.description .two-columns__paragraph:last-child {
+  margin-top: 30px;
+}
